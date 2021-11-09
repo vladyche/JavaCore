@@ -1,2 +1,2 @@
 # JavaCore
-Learn and practice Java
+Learn Java
