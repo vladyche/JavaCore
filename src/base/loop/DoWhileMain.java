@@ -1,4 +1,4 @@
-package loop;
+package base.loop;
 
 public class DoWhileMain {
     public static void main(String[] args) {

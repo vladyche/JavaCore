@@ -1,4 +1,4 @@
-package loop;
+package base.loop;
 
 public class ForEachMain {
     public static void main(String[] args) {
